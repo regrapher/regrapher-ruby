@@ -1,6 +1,6 @@
 module Regrapher
   class Parser
-    LINE_REGEX = /^\[regrapher\]\[(\d+)\](.+)$/
+    LINE_REGEX = /\[regrapher\]\[(\d+)\](.+)$/
 
     def parse(line)
       _, length, rest = line.match(LINE_REGEX).to_a

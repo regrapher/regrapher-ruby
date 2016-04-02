@@ -1,4 +1,5 @@
 require 'regrapher/client'
+require 'regrapher/parser'
 
 module Regrapher
 
