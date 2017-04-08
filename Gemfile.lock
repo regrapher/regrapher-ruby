@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    regrapher (0.1.0)
+    regrapher (0.1.2)
 
 GEM
   remote: https://rubygems.org/
@@ -35,4 +35,4 @@ DEPENDENCIES
   yard
 
 BUNDLED WITH
-   1.11.2
+   1.14.6

@@ -1,4 +1,9 @@
 # 0.1.1
+tag 0.1.2
+
+Fix NameError error in Regrapher::client 
+
+# 0.1.1
 tag 0.1.1
 
 Fix parser regex: removed start of line constraint.

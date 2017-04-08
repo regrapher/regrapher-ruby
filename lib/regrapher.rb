@@ -10,7 +10,7 @@ module Regrapher
     end
 
     def client
-      @client ||= Client.new(options)
+      @client ||= Client.new
     end
   end
 end
